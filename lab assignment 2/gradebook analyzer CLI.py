@@ -1,6 +1,7 @@
 # gradebook_analyzer.py
-# Author: [Kapil]
-# Date: [29/10/2025]
+# Author: RAVI AHIRWAR
+# Date: 05/11/2025
+# Roll no: krmu2534182
 # Title: Simple GradeBook Analyzer
 
 def get_students():
