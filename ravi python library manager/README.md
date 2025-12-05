@@ -18,5 +18,5 @@ Run the CLI: `python cli/main.py`
 - Python 3.x
 - Dependencies: logging (built-in)
 
-## Screenshots
-[Include a screenshot of the CLI in action here, e.g., menu display]
+
+
